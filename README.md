@@ -1,1 +1,1 @@
-"# Machine-Learning-in-Numpy" 
+Machine learning algorithm implemented in numpy
